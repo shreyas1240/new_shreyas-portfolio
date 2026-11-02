@@ -90,7 +90,7 @@ export default function App() {
             <div className="profile-photo-frame">
               <img
                 className="profile-photo"
-                src="https://avatars.githubusercontent.com/u/184962980?s=600&v=4"
+                src="/profile.jpg"
                 alt="Shreyas G GitHub profile picture"
                 referrerPolicy="no-referrer"
               />
